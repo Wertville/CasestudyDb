@@ -1,0 +1,202 @@
+[
+	{
+		"ProductName": "GUILTY GEAR Xrd -REVELATOR-",
+		"GraphicName": "image",
+		"CostPrice": "25.07",
+		"MSRP": "32.99",
+		"QtyOnHand": "15",
+		"GtyOnBackOrder": "0",
+		"Description": "Astonishing 3D cell animations and overwhelming content volume, the next-generation fighting game \"GUILTY GEAR Xrd -REVELATOR-\" is now out on Steam! Total cast of 23 unique characters, and tons of game modes, get ready to ROCK!",
+		"Brand": "Arc System Works"
+	},
+	{
+		"ProductName": "Melty Blood Actress Again Current Code",
+		"GraphicName": "image",
+		"CostPrice": "27.99",
+		"MSRP": "27.99",
+		"QtyOnHand": "5",
+		"GtyOnBackOrder": "0",
+		"Description": "The final episode of the series, \"MELTY BLOOD Actress Again Current Code\" is now on Steam!",
+		"Brand": "Arc System Works"
+	},
+	{
+		"ProductName": "GUILTY GEAR 2 -OVERTURE-",
+		"GraphicName": "image",
+		"CostPrice": "5.71",
+		"MSRP": "21.99",
+		"QtyOnHand": "2",
+		"GtyOnBackOrder": "0",
+		"Description": "The ultimate melee action [GUILTY GEAR 2 -OVERTURE-] is now on Steam!! Pushing [Gameplay] and [Entertainment] to the extremes, with a splash of [Competitiveness] -- That's GUILTY GEAR 2 for you.",
+		"Brand": "Arc System Works"
+	},
+	{
+		"ProductName": "UNDER NIGHT IN-BIRTH Exe:Late",
+		"GraphicName": "image",
+		"CostPrice": "32.99",
+		"MSRP": "32.99",
+		"QtyOnHand": "7",
+		"GtyOnBackOrder": "0",
+		"Description": "Dramatic Stylish 2D Fighting Action 「UNDER NIGHT IN-BIRTH Exe:Late」 now on Steam!",
+		"Brand": "Arc System Works"
+	},
+	{
+		"ProductName": "Battle Fantasia -Revised Edition-",
+		"GraphicName": "image",
+		"CostPrice": "16.99",
+		"MSRP": "16.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "\"Battle Fantasia\", the fantasy RPG themed 2D Fighting game is now appearing on Steam, and \"REVISED\" with the latest balances and improved visual effects! Comes with FREE Soundtrack DLC!",
+		"Brand": "Arc System Works"
+	},
+	{
+		"ProductName": "Kingsway",
+		"GraphicName": "image",
+		"CostPrice": "10.99",
+		"MSRP": "10.99",
+		"QtyOnHand": "40",
+		"GtyOnBackOrder": "0",
+		"Description": "Kingsway is the #1 operating system for daily tasks such as skeleton smashing and loot-organizing. Trouble sorting through all your potions and swords? Don't worry! Kingsway can help you manage, and with an easy to use interface you'll have time leftover for a peaceful stroll through the underworld.",
+		"Brand": "Adult Swim Games"
+	},
+	{
+		"ProductName": "Westerado: Double Barreled",
+		"GraphicName": "image",
+		"CostPrice": "16.99",
+		"MSRP": "16.99",
+		"QtyOnHand": "15",
+		"GtyOnBackOrder": "0",
+		"Description": "Westerado: Double Barreled. When your family is murdered by a mysterious desperado, you set out into the world to take revenge. Take control of your own fate and that of others, all using your trusty shooting iron.",
+		"Brand": "Adult Swim Games"
+	},
+	{
+		"ProductName": "Duck Game",
+		"GraphicName": "image",
+		"CostPrice": "13.99",
+		"MSRP": "13.99",
+		"QtyOnHand": "30",
+		"GtyOnBackOrder": "0",
+		"Description": "Enter the futuristic year of 1984, an age where ducks run wild in a frantic battle for glory. Blast your friends with Shotguns, Net Guns, Mind Control Rays, Saxophones, Magnet Guns, and much, much more. This is DUCK GAME. Don't blink.",
+		"Brand": "Adult Swim Games"
+	},
+	{
+		"ProductName": "Mega Coin Squad",
+		"GraphicName": "image",
+		"CostPrice": "16.99",
+		"MSRP": "16.99",
+		"QtyOnHand": "15",
+		"GtyOnBackOrder": "0",
+		"Description": "Tackle 16 levels in the solo quest for the Mega Coins in this manic 2D platformer from Big Pixel Studios and Adult Swim Games. Or invite your friends over to rob them of victory -- and their coins -- in four different local multiplayer modes.",
+		"Brand": "Adult Swim Games"
+	},
+	{
+		"ProductName": "Zenzizenzic",
+		"GraphicName": "image",
+		"CostPrice": "10.99",
+		"MSRP": "10.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "Zenzizenzic is a fast-paced, adrenaline-infused twin stick bullet hell shoot 'em up and open world roguelike. Featuring a beautifully abstract art style and a thumping, full throttle soundtrack, it's sure to get your thumbs sweating and your blood pumping!",
+		"Brand": "Adult Swim Games"
+	},
+	{
+		"ProductName": "Portal",
+		"GraphicName": "image",
+		"CostPrice": "10.99",
+		"MSRP": "10.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+		"Brand": "Valve"
+	},
+	{
+		"ProductName": "Half-Life 2",
+		"GraphicName": "image",
+		"CostPrice": "10.99",
+		"MSRP": "10.99",
+		"QtyOnHand": "2",
+		"GtyOnBackOrder": "0",
+		"Description": "Supports cross-platform Steam Cloud - continue your game on any supported OS. Plus, all new Steam achievements!",
+		"Brand": "Valve"
+	},
+	{
+		"ProductName": "Counter-Strike",
+		"GraphicName": "image",
+		"CostPrice": "10.99",
+		"MSRP": "10.99",
+		"QtyOnHand": "30",
+		"GtyOnBackOrder": "0",
+		"Description": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success.",
+		"Brand": "Valve"
+	},
+	{
+		"ProductName": "Counter-Strike: Global Offensive",
+		"GraphicName": "image",
+		"CostPrice": "16.99",
+		"MSRP": "16.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "Counter-Strike: Global Offensive (CS: GO) will expand upon the team-based action gameplay that it pioneered when it was launched 14 years ago. CS: GO features new maps, characters, and weapons and delivers updated versions of the classic CS content (de_dust, etc.).",
+		"Brand": "Valve"
+	},
+	{
+		"ProductName": "Black Mesa",
+		"GraphicName": "image",
+		"CostPrice": "21.99",
+		"MSRP": "21.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "Relive Half-Life in this highly acclaimed, fan-made recreation",
+		"Brand": "Valve"
+	},
+	{
+		"ProductName": "Farming Simulator 15",
+		"GraphicName": "image",
+		"CostPrice": "6.99",
+		"MSRP": "27.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "Welcome to the new generation of Farming Simulator!With a brand new graphics and physics engine, Farming Simulator 15 offers an immense open world, filled with details and visual effects transporting the Farming Simulator franchise to a new era.",
+		"Brand": "Focus Home Interactive"
+	},
+	{
+		"ProductName": "Farming Simulator 17",
+		"GraphicName": "image",
+		"CostPrice": "44.99",
+		"MSRP": "26.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "Take on the role of a modern farmer in Farming Simulator 17! Explore farming possibilities in a new North American environment. Drive over 250 farming vehicles and equipment from over 75 manufacturers, including new brands such as Challenger, Fendt, Valtra or Massey Ferguson.",
+		"Brand": "Focus Home Interactive"
+	},
+	{
+		"ProductName": "Divinity II: Developer's Cut",
+		"GraphicName": "image",
+		"CostPrice": "21.99",
+		"MSRP": "21.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "Dragons: they have been hunted, they have been slain, but now the hour to strike back has come.",
+		"Brand": "Focus Home Interactive"
+	},
+	{
+		"ProductName": "Blood Bowl: Chaos Edition",
+		"GraphicName": "image",
+		"CostPrice": "18.99",
+		"MSRP": "18.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "This bonecrunching sport features 23 playable races, each with its own style, vicious moves, rankings & more!",
+		"Brand": "Focus Home Interactive"
+	},
+	{
+		"ProductName": "Sherlock Holmes: Crimes and Punishments",
+		"GraphicName": "image",
+		"CostPrice": "32.99",
+		"MSRP": "32.99",
+		"QtyOnHand": "24",
+		"GtyOnBackOrder": "0",
+		"Description": "Become the most celebrated detective of all time: Sherlock Holmes! Use your impressive talents as a detective to solve six thrilling and varied cases: murders, missing persons, spectacular thefts and numerous investigations that sometimes lead you into the realms of the fantastic.",
+		"Brand": "Focus Home Interactive"
+	}
+]
