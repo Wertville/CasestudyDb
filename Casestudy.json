@@ -1,7 +1,7 @@
 [
 	{
 		"ProductName": "GUILTY GEAR Xrd -REVELATOR-",
-		"GraphicName": "image",
+		"GraphicName": "GuiltyGearXrd.jpg",
 		"CostPrice": "25.07",
 		"MSRP": "32.99",
 		"QtyOnHand": "15",
@@ -11,7 +11,7 @@
 	},
 	{
 		"ProductName": "Melty Blood Actress Again Current Code",
-		"GraphicName": "image",
+		"GraphicName": "MeltyBlood.jpg",
 		"CostPrice": "27.99",
 		"MSRP": "27.99",
 		"QtyOnHand": "5",
@@ -21,7 +21,7 @@
 	},
 	{
 		"ProductName": "GUILTY GEAR 2 -OVERTURE-",
-		"GraphicName": "image",
+		"GraphicName": "GuiltyGear2.jpg",
 		"CostPrice": "5.71",
 		"MSRP": "21.99",
 		"QtyOnHand": "2",
@@ -31,7 +31,7 @@
 	},
 	{
 		"ProductName": "UNDER NIGHT IN-BIRTH Exe:Late",
-		"GraphicName": "image",
+		"GraphicName": "UNIB.jpg",
 		"CostPrice": "32.99",
 		"MSRP": "32.99",
 		"QtyOnHand": "7",
@@ -41,7 +41,7 @@
 	},
 	{
 		"ProductName": "Battle Fantasia -Revised Edition-",
-		"GraphicName": "image",
+		"GraphicName": "BattleFantastia.jpg",
 		"CostPrice": "16.99",
 		"MSRP": "16.99",
 		"QtyOnHand": "24",
@@ -51,7 +51,7 @@
 	},
 	{
 		"ProductName": "Kingsway",
-		"GraphicName": "image",
+		"GraphicName": "kingsway.jpg",
 		"CostPrice": "10.99",
 		"MSRP": "10.99",
 		"QtyOnHand": "40",
@@ -61,7 +61,7 @@
 	},
 	{
 		"ProductName": "Westerado: Double Barreled",
-		"GraphicName": "image",
+		"GraphicName": "Westerado.jpg",
 		"CostPrice": "16.99",
 		"MSRP": "16.99",
 		"QtyOnHand": "15",
@@ -71,7 +71,7 @@
 	},
 	{
 		"ProductName": "Duck Game",
-		"GraphicName": "image",
+		"GraphicName": "Duck Game.jpg",
 		"CostPrice": "13.99",
 		"MSRP": "13.99",
 		"QtyOnHand": "30",
@@ -81,7 +81,7 @@
 	},
 	{
 		"ProductName": "Mega Coin Squad",
-		"GraphicName": "image",
+		"GraphicName": "Mega Coin Sqaud.jpg",
 		"CostPrice": "16.99",
 		"MSRP": "16.99",
 		"QtyOnHand": "15",
@@ -91,7 +91,7 @@
 	},
 	{
 		"ProductName": "Zenzizenzic",
-		"GraphicName": "image",
+		"GraphicName": "zzzz.jpg",
 		"CostPrice": "10.99",
 		"MSRP": "10.99",
 		"QtyOnHand": "24",
@@ -101,7 +101,7 @@
 	},
 	{
 		"ProductName": "Portal",
-		"GraphicName": "image",
+		"GraphicName": "Portal.jpg",
 		"CostPrice": "10.99",
 		"MSRP": "10.99",
 		"QtyOnHand": "24",
@@ -111,7 +111,7 @@
 	},
 	{
 		"ProductName": "Half-Life 2",
-		"GraphicName": "image",
+		"GraphicName": "HL2.jpg",
 		"CostPrice": "10.99",
 		"MSRP": "10.99",
 		"QtyOnHand": "2",
@@ -121,7 +121,7 @@
 	},
 	{
 		"ProductName": "Counter-Strike",
-		"GraphicName": "image",
+		"GraphicName": "Counterstrike.jpg",
 		"CostPrice": "10.99",
 		"MSRP": "10.99",
 		"QtyOnHand": "30",
@@ -131,7 +131,7 @@
 	},
 	{
 		"ProductName": "Counter-Strike: Global Offensive",
-		"GraphicName": "image",
+		"GraphicName": "CounterStrikeGo.jpg",
 		"CostPrice": "16.99",
 		"MSRP": "16.99",
 		"QtyOnHand": "24",
@@ -141,7 +141,7 @@
 	},
 	{
 		"ProductName": "Black Mesa",
-		"GraphicName": "image",
+		"GraphicName": "Black Mesa.jpg",
 		"CostPrice": "21.99",
 		"MSRP": "21.99",
 		"QtyOnHand": "24",
@@ -151,7 +151,7 @@
 	},
 	{
 		"ProductName": "Farming Simulator 15",
-		"GraphicName": "image",
+		"GraphicName": "FarmingSim15.jpg",
 		"CostPrice": "6.99",
 		"MSRP": "27.99",
 		"QtyOnHand": "24",
@@ -161,7 +161,7 @@
 	},
 	{
 		"ProductName": "Farming Simulator 17",
-		"GraphicName": "image",
+		"GraphicName": "FarmingSim17.jpg",
 		"CostPrice": "44.99",
 		"MSRP": "26.99",
 		"QtyOnHand": "24",
@@ -171,7 +171,7 @@
 	},
 	{
 		"ProductName": "Divinity II: Developer's Cut",
-		"GraphicName": "image",
+		"GraphicName": "Div2.jpg",
 		"CostPrice": "21.99",
 		"MSRP": "21.99",
 		"QtyOnHand": "24",
@@ -181,7 +181,7 @@
 	},
 	{
 		"ProductName": "Blood Bowl: Chaos Edition",
-		"GraphicName": "image",
+		"GraphicName": "BloodBowl.jpg",
 		"CostPrice": "18.99",
 		"MSRP": "18.99",
 		"QtyOnHand": "24",
@@ -191,7 +191,7 @@
 	},
 	{
 		"ProductName": "Sherlock Holmes: Crimes and Punishments",
-		"GraphicName": "image",
+		"GraphicName": "Holmes.jpg",
 		"CostPrice": "32.99",
 		"MSRP": "32.99",
 		"QtyOnHand": "24",
