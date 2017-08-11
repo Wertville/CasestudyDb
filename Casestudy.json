@@ -22,9 +22,9 @@
 	{
 		"ProductName": "GUILTY GEAR 2 -OVERTURE-",
 		"GraphicName": "GuiltyGear2.jpg",
-		"CostPrice": "5.71",
-		"MSRP": "21.99",
-		"QtyOnHand": "2",
+		"CostPrice": "99.99",
+		"MSRP": "99.99",
+		"QtyOnHand": "10",
 		"GtyOnBackOrder": "0",
 		"Description": "The ultimate melee action [GUILTY GEAR 2 -OVERTURE-] is now on Steam!! Pushing [Gameplay] and [Entertainment] to the extremes, with a splash of [Competitiveness] -- Thats GUILTY GEAR 2 for you.",
 		"Brand": "Arc System Works"
@@ -32,9 +32,9 @@
 	{
 		"ProductName": "UNDER NIGHT IN-BIRTH Exe:Late",
 		"GraphicName": "UNIB.jpg",
-		"CostPrice": "32.99",
+		"CostPrice": "109.99",
 		"MSRP": "32.99",
-		"QtyOnHand": "7",
+		"QtyOnHand": "3",
 		"GtyOnBackOrder": "0",
 		"Description": "Dramatic Stylish 2D Fighting Action 「UNDER NIGHT IN-BIRTH Exe:Late」 now on Steam!",
 		"Brand": "Arc System Works"
